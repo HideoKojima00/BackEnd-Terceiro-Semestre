@@ -1,0 +1,14 @@
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\bin\Debug\net10.0\exercicio04.exe
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\bin\Debug\net10.0\exercicio04.deps.json
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\bin\Debug\net10.0\exercicio04.runtimeconfig.json
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\bin\Debug\net10.0\exercicio04.dll
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\bin\Debug\net10.0\exercicio04.pdb
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\exercicio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\exercicio04.AssemblyInfoInputs.cache
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\exercicio04.AssemblyInfo.cs
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\exercicio04.csproj.CoreCompileInputs.cache
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\exercicio04.dll
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\refint\exercicio04.dll
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\exercicio04.pdb
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\exercicio04.genruntimeconfig.cache
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio04\obj\Debug\net10.0\ref\exercicio04.dll

@@ -1,0 +1,14 @@
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\bin\Debug\net10.0\exercicio3.exe
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\bin\Debug\net10.0\exercicio3.deps.json
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\bin\Debug\net10.0\exercicio3.runtimeconfig.json
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\bin\Debug\net10.0\exercicio3.dll
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\bin\Debug\net10.0\exercicio3.pdb
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\exercicio3.AssemblyInfoInputs.cache
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\exercicio3.AssemblyInfo.cs
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\exercicio3.dll
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\refint\exercicio3.dll
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\exercicio3.pdb
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\exercicio3.genruntimeconfig.cache
+C:\Users\46290704869\Documents\BackEnd Terceiro Semestre\exercicio03\obj\Debug\net10.0\ref\exercicio3.dll
