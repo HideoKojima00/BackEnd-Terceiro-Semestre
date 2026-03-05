@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BdContextFilme",
+    "\\Controllers",
+    "\\Interfaces",
+    "\\Models",
+    "\\Repositories"
+  ],
+  "SelectedNode": "\\Controllers\\FilmeController.cs",
+  "PreviewInSolutionExplorer": false
+}
