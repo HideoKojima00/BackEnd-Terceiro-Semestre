@@ -6,3 +6,12 @@ C:\Users\46290704869\Downloads\ProjetoFilmes.Torloni-main\ProjetoFilmes.Torloni-
 C:\Users\46290704869\Downloads\ProjetoFilmes.Torloni-main\ProjetoFilmes.Torloni-main\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\46290704869\Downloads\ProjetoFilmes.Torloni-main\ProjetoFilmes.Torloni-main\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\46290704869\Downloads\ProjetoFilmes.Torloni-main\ProjetoFilmes.Torloni-main\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.csproj.AssemblyReference.cache
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.AssemblyInfoInputs.cache
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.AssemblyInfo.cs
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46290704869\Desktop\eventplus\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.sourcelink.json
